@@ -1,8 +1,0 @@
-prefix=/home/yiklungpang/maria_simulation/devel
-
-Name: ur5_moveit_config
-Description: Description of ur5_moveit_config
-Version: 1.2.1
-Cflags: 
-Libs: -L/home/yiklungpang/maria_simulation/devel/lib 
-Requires: 

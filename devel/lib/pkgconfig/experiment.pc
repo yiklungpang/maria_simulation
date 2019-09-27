@@ -1,8 +1,0 @@
-prefix=/home/yiklungpang/maria_simulation/devel
-
-Name: experiment
-Description: Description of experiment
-Version: 0.0.0
-Cflags: -I/home/yiklungpang/maria_simulation/devel/include
-Libs: -L/home/yiklungpang/maria_simulation/devel/lib 
-Requires: 

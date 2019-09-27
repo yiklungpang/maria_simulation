@@ -1,8 +1,0 @@
-prefix=/home/yiklungpang/maria_simulation/install
-
-Name: arq_gazebo
-Description: Description of arq_gazebo
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/yiklungpang/maria_simulation/install/lib 
-Requires: 
