@@ -1,0 +1,8 @@
+prefix=/home/yiklungpang/maria_simulation/devel
+
+Name: ur_gazebo
+Description: Description of ur_gazebo
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/yiklungpang/maria_simulation/devel/lib 
+Requires: 
